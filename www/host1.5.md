@@ -1,0 +1,3 @@
+<p><h4><center>Hover over a point to see additional details. The heatmap is coloured by percent of specimens of a given fungal genes which are associated with each host. A specimen is defined here as the combination of an organism's species, location, and date of collection. I.e two species collected at the same location on different dates are two separate specimens. The row colours on the right hand side indicate fungal family and order. Mouse over to see their values.<br></p></h4></center>
+<br>
+<br>
