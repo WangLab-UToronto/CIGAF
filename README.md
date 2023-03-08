@@ -1,1 +1,1 @@
-# CIGAF
+# CIGAF: A Global Database and Interactive Platform for Insect Associated Trichomycete Fungi![image](https://user-images.githubusercontent.com/19365102/223760377-37c8cee2-5404-4f23-84f0-12d41fc923d2.png)
